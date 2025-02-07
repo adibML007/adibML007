@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @adibML007
-- 👀 I’m interested in data scientific methodology
+- 👀 I’m interested in health IT
 - 🌱 I’m currently learning large language models
-- 💞️ I’m looking to collaborate on data science, machine learning and statistical modeling
+- 💞️ I’m looking to collaborate on any fields related to AI
 - 📫 Just send an e-mail at a_u_z_ipe@yahoo.com
 
 <!---
